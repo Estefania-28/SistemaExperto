@@ -16,3 +16,7 @@ ENTONCES posible falla en eje o rodamientos
 Regla 6 (adicional para mayor calidad del taller)
 SI temperatura normal Y vibración normal Y ruido normal
 ENTONCES funcionamiento adecuado
+
+
+
+ALUMNAS: ESTEFANIA JIMENEZ PEÑA - LAURA CATHERINE QUINTERO VEGA
